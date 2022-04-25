@@ -6,11 +6,11 @@
     <div class="container-fluid">
       <div class="row mb-2">
         <div class="col-sm-6">
-          <h1 class="m-0">Example Page</h1>
+          <h1 class="m-0">Example Ubah</h1>
         </div><!-- /.col -->
         <div class="col-sm-6">
           <ol class="breadcrumb float-sm-right">
-            <li class="breadcrumb-item active">Example</li>
+            <li class="breadcrumb-item active">Example Ubah</li>
           </ol>
         </div><!-- /.col -->
       </div><!-- /.row -->
